@@ -12,3 +12,8 @@ func TestConcat(t *testing.T) {
 
 	assert.Equal(t, "Hello world ", result)
 }
+
+func TestMarking(t *testing.T) {
+	result := Marking("Tanakorn")
+	assert.Equal(t, "Tanxxxxx", result)
+}
