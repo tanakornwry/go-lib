@@ -1,4 +1,4 @@
-module github.com/tanakornwry/go-lib/string
+module github.com/tanakornwry/go-lib/str
 
 go 1.20
 

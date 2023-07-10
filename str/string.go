@@ -1,4 +1,4 @@
-package string
+package str
 
 func Concat(input []string) string {
 	result := ""
